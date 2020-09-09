@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - pandas
-  - matplotlib
-  - plotly
+  - pandas=1.2.1
+  - matplotlib=3.3.1
+  - plotly=4.9.0
 prefix: C:\ProgramData\Anaconda3\envs\DemandAnalysisCOVID
