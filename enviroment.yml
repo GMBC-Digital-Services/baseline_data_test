@@ -5,6 +5,5 @@ dependencies:
   - python=3.8
   - pandas
   - matplotlib
-  - jupyter
   - plotly
 prefix: C:\ProgramData\Anaconda3\envs\DemandAnalysisCOVID
